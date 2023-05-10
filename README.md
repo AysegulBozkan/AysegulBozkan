@@ -5,8 +5,9 @@ I'm Aysegul</h1>
 
 - 🌱 I’m currently learning **SQL and PYTHON**
 
+<!--
 - 📫 How to reach me **abozkan5353@gmail.com**
-
+-->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/https://academy.patika.dev/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://academy.patika.dev/profile" height="30" width="40" /></a>
